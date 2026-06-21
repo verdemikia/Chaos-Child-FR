@@ -1,7 +1,7 @@
  、。?!〜”ー)〕]}〉》」』】☆★♪々ぁぃぅぇぉっゃゅょァィゥェォッャュョ[...]–, &-,.');:?!’
 “(〔[{〈《「『【-‘'(:@
 Sign out was done. I return to title screen.
-A game pad was removed. Please connect a game pad.
+Une manette a été déconnectée. Veuillez la reconnecter.
 Sign in do a game, please to play.
 
 Miyashiro
@@ -29,78 +29,78 @@ Takayanagi
 高柳の声
 Ootani
 Tanaka
-Yellow Gero Froggy
-Red Gero Froggy
-Green Gero Froggy
-Schoolgirl
-Staff
-Homeless Woman
-Homeless Man
-Schoolboy
+Gero Froggy Jaune 
+Gero Froggy Rouge
+Gero Froggy Verte
+Écolière
+Personnel
+Femme sans abri
+Homme sans abri
+Écolier
 Shingo
-Arimura’s Brother
-Arimura’s Father
-Arimura’s Mother
-Teacher
-Sales Clerk
-Deciphering Reporter
-Surgeon
-Nurse
-Policewoman
-Policeman
-Kids
-Anchor Woman
+Frère d'Arimura
+Père d'Arimura
+Mère d'Arimura
+Professeur
+Vendeur
+Reporter d'investigation
+Chirurgien
+Infirmière
+Policière
+Policer
+Enfants
+Présentatrice
 Reporter
-Anchor Man
-Commentator
-Aged Man
-Young Girl
+Présentateur
+Commentateur
+Homme âgé
+Jeune fille
 眼鏡の少女
-Girl
-Young Boy
-Detective
+Fille
+Jeune garçon
+Détective
 Weaselscythe
-Woman
+Femme
 女
 女性モデル
-Man
-Teacher
+Homme
+Professeur
 男性カメラマン
 男性スタッフ
-Employee
-Female Student
+Employé
+Étudiante
 女子生徒の声
-Male Student
-Journalist
-Man
-Woman
+Étudiant
+Journaliste
+Homme
+Femme
 Aozaki
 Another Uki
 Audio Guidance
 Aoi
-Driver
-Miyashiro’s Father
-Miyashiro’s Mother
-School Broadcasting
+Conducteur
+Père de Miyashiro
+Mère de Miyashiro
+Radiodiffusion de l'École
 Ayaka
-Guard
-All
-Tachibana Siblings
-Miyashiro and others
-Kazuki and others
-Yamazoe and others
-Students
-Arimura and others
-Kurusu and others
+Garde
+Tous
+Jumeaux Tachibana
+Miyashiro et les autres
+Kazuki et les autres
+Yamazoe et les autres
+Étudiants
+Arimura et les autres
+Kurusu et les autres
 Cameraman
-Corrupted Data
-No data
-Play Time:
-Save Time:
+Sauvegarde corrumpue
+Aucune données
+Temps de jeu:
+Temps de sauvegarde:
 /
 :
 No.
-Total Play Time
+Temps de jeu total:
 m
 s
 h
@@ -109,11 +109,11 @@ h
 /
 ??/??
 ??????
-Reached Ending
-Acquired TIPS
-Album Achievement Rate
-New
-Unread
+Fin atteinte
+TIPS obtenus
+Taux de complétion de l'album
+Nouveau
+Non lu
 
 
 

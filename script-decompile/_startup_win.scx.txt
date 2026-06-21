@@ -1,11 +1,11 @@
-All unsaved game progress will be lost.
-Exit Game?
+Toute progression non-sauvegardée sera perdue.
+Quitter le jeu?
 OK
-Cancel
-All unsaved game progress will be lost.
-Exit Game?
+Retour
+Toute progression non-sauvegardée sera perdue.
+Quitter le jeu?
 OK
-Cancel
+Retour
 [color index="A01B0000"]フラグ・ワークエディタ
 [color index="A01B0000"]ヒント表示
 [color index="A01B0000"]Tips開放
@@ -28,93 +28,93 @@ Cancel
 [color index="A0140000"]ムービー全開放。
 [color index="A0140000"]シーン既読全開放。
 [color index="A0140000"]MUSIC全開放。
-Exit Game?
+Quitter le jeu?
 OK
-Cancel
-Corrupted TIPS data detected.
-Don’t load
-All unsaved game progress will be lost.
-Return to the Title Menu?
+Retour
+Données TIPS corrompues détectées.
+Ne pas charger
+Toute progression non-sauvegardée sera perdue.
+Retourner à l'écran titre?
 OK
-Cancel
-All unsaved game progress will be lost.
-Return to the Title Menu?
+Retour
+Toute progression non-sauvegardée sera perdue.
+Retourner à l'écran titre?
 OK
-Cancel
-Return to the Title Menu?
+Retour
+Retourner à l'écran titre?
 OK
-Cancel
-All unsaved game progress will be lost.
-Exit Game?
+Retour
+Toute progression non-sauvegardée sera perdue.
+Quitter le jeu?
 OK
-Cancel
+Retour
 Leave the scene recollection menu?
 OK
-Cancel
-Return this page to default settings?
-Yes
-No
+Retour
+Réinitialiser cette page aux paramètres par défauts?
+Oui
+Non
 The defaults for these settings have been restored.
-Saving System Data.
-Please do not turn off the system.
-Not enough free space to store Save Data.
-Please free up some space on your hard drive to save.
-Load this data?
-Load
-Don’t load
-Load this data?
-All unsaved game progress will be lost.
+Sauvegarde des données système.
+Veuillez ne pas éteindre le système.
+Pas assez d'espace libre pour sauvegarder.
+Veuillez libérer de la place sur votre disque dur pour sauvegarder.
+Charger cette sauvegarde?
+Charger
+Ne pas charger
+Charger cette sauvegarde?
+Toute progression non-sauvegardée sera perdue.
 OK
-Cancel
-All save files are locked.
-When all save files are locked, you are unable to quick save.
-If you would like to use the quick save feature, please unlock
-the lock on unnecessary save files.
-All save files are locked.
-When all save files are locked, you are unable to quick save.
-If you would like to use the quick save feature, please unlock
-the lock on unnecessary save files.
-Save file already exists.
-If you overwrite this save file, the old data will be lost.
-Overwrite this save file?
-Overwrite
-Cancel
-This save file is locked.
-If you would like to overwrite it, please unlock it.
-The save data is corrupted.
-If you overwrite this save file, the old data will be lost.
-Overwrite this save file?
-Overwrite
-Cancel
-Saving data.
-Saving data. Please do not turn off the system.
-Not enough free space to store save data.
-Please free up some space on your hard drive to save.
-Saving System Data.
-Please do not turn off the system.
-Checking System Data.
-Loading System Data.
-No System Data found.
-System Data will now be created.
-Creating System Data.
-Please do not turn off the system.
-System Data is corrupted.
-System Data will now be repaired.
-Repairing System Data.
-Please do not turn off the system.
-Not enough free space to store Save Data.
-Please free up some space on your hard drive to save.
-This System Data belongs to another user.
-Please exit the game and delete the System Data.
-This System Data belongs to another user.
-Please exit the game and delete the System Data.
-System Data is corrupted.
-Unable to load System Data.
-System Data is corrupted.
-Unable to load System Data.
-Failed to load System Data.
-Please quit the game and try again.
-Failed to load System Data.
-Please quit the game and try again.
-Failed to create System Data.
-Please quit the game and try again.
+Retour
+Toutes les sauvegardes sont verrouillées.
+Quand toutes les sauvegardes sont verrouillées, il est impossible de faire une sauvegarde rapide.
+Si vous souhaitez faire une sauvegarde rapide, débloquez
+le verrou sur les fichiers non-nécessaires.
+Toutes les sauvegardes sont verrouillées.
+Quand toutes les sauvegardes sont verrouillées, il est impossible de faire une sauvegarde rapide.
+Si vous souhaitez faire une sauvegarde rapide, débloquez
+le verrou sur les fichiers non-nécessaires.
+La sauvegarde existe déjà.
+Si vous écrasez cette sauvegarde, les anciennes données seront perdues.
+Écraser cette sauvegarde?
+Écraser
+Retour
+Cette sauvegarde est verrouillée.
+Si vous souhaitez l'écraser, merci de la déverrouiller.
+La sauvegarde est corrompue.
+Si vous écrasez cette sauvegarde, les anciennes données seront perdues.
+Écraser cette sauvegarde?
+Écraser
+Retour
+Sauvegarde des données.
+Sauvegarde des données. Veuillez ne pas éteindre le système.
+Pas assez d'espace libre pour sauvegarder.
+Veuillez libérer de la place sur votre disque dur pour sauvegarder.
+Sauvegarde des données systèmes.
+Veuillez ne pas éteindre le système.
+Vérification des données systèmes.
+Chargement des données systèmes.
+Pas de données systèmes trouvées.
+Les données systèmes vont être créées.
+Création des données systèmes.
+Veuillez ne pas éteindre le système.
+Les données systèmes sont corrompues.
+Les données systèmes vont être réparées.
+Réparation des données systèmes.
+Veuillez ne pas éteindre le système.
+Pas assez d'espace libre pour sauvegarder.
+Veuillez libérer de la place sur votre disque dur pour sauvegarder.
+Ces données systèmes appartiennent à un autre utilisateur.
+Veuillez quitter le jeu et supprimer les données systèmes.
+Ces données systèmes appartiennent à un autre utilisateur.
+Veuillez quitter le jeu et supprimer les données systèmes.
+Les données systèmes sont corrompues.
+Impossibilité de charger les données systèmes.
+Les données systèmes sont corrompues.
+Impossibilité de charger les données systèmes.
+Les données systèmes n'ont pas pu être chargées.
+Veuillez quitter le jeu et réessayer.
+Les données systèmes n'ont pas pu être chargées.
+Veuillez quitter le jeu et réessayer.
+Les données systèmes n'ont pas pu être créées.
+Veuillez quitter le jeu et réessayer.
