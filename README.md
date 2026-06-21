@@ -8,7 +8,7 @@
 
 Patch français pour le visual novel **CHAOS;CHILD**.
 
-Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par "medpapaya" et "mekki/jabberwockyfool"
+Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par "medpapaya" et "mekki (jabberwockyfool)"
 
 ## Crédits
 
