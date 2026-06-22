@@ -22,6 +22,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 - bg1.mpk
 - bg2.mpk
 - manual.mpk
+- script.mpk
 - system.mpk
 
 ## Crédits
