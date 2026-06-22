@@ -15,6 +15,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 - **Committee of Zero** pour le patch de base et leur travail sur CHAOS;CHILD.
 - **MAGES Inc.** pour le visual novel original.
 - L'équipe de traduction française pour l'adaptation, la relecture et l'intégration.
+  
 
 ## Statut
 Projet en cours.
@@ -28,3 +29,14 @@ Projet en cours.
 - bg2.mpk
 - manual.mpk
 - system.mpk
+
+---
+
+## Licence & Avertissement légal
+Ce projet est sous licence **[CC BY-NC-SA 4.0](LICENSE)** — libre d'utilisation et de modification,
+interdit à la vente, attribution obligatoire.
+
+CHAOS;CHILD est © MAGES. Ce projet est une traduction amateur à but non lucratif.
+Aucun fichier du jeu n'est distribué. Vous devez posséder votre propre copie du jeu.
+
+---
