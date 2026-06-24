@@ -15,11 +15,12 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| [Scripts (dialogues)](https://github.com/jabberwockyfool/Chaos-Child-FR/tree/main/script-decompile)   |     37/216 (17.13%)   |
+| [Scripts (dialogues)](/script-decompile) | 🔄 37/216 (17.13%) |        
 | Script système   |      ✅      |
 | Dialogues               | 🔄 |
 | Police (accents FR)   |      ✅      |
 | Menus/CG                 | 🔄 |
+| [Scripts (dialogues)](languagebarrier/subs) | 🔄 (50%) |   
 
 ## Fichiers à traduire (pour traducteurs)
 - bg1.mpk
